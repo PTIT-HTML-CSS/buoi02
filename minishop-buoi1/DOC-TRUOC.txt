@@ -1,0 +1,19 @@
+MÃ NGUỒN MINISHOP SAU BUỔI 01 (HTML)
+
+1-cuoi-gio-hoc/minishop/
+    Đúng trạng thái cuối Lab 1.5: 4 trang (index, about, product, register),
+    thanh điều hướng 3 liên kết.
+
+2-da-lam-bai-tap-ve-nha/minishop/
+    Thêm 3 trang bài tập về nhà (login, cart, contact) và thanh điều hướng
+    6 liên kết trên mọi trang. Đây là điểm xuất phát của Buổi 02.
+
+Cách dùng: chép thư mục "minishop" vào C:\xampp\htdocs\, mở bằng VS Code
+(File > Open Folder), nhấp chuột phải vào index.html > Open with Live Server.
+
+Lưu ý:
+- Ảnh trong images/ là ảnh giữ chỗ (nền màu + tên sản phẩm), nên thay bằng ảnh thật
+  cùng tên tệp sp01.jpg ... sp06.jpg.
+- Thư mục css/ và js/ để trống theo đúng giáo trình (tệp .gitkeep chỉ để giữ thư mục
+  khi nén, có thể xóa).
+- Trang chưa có CSS nên hiển thị thô: đó là kết quả đúng của Buổi 01.
